@@ -1,0 +1,33 @@
+#ft {
+    color: #d90429;
+}
+
+#ft:hover {
+    color: #9e0059;
+    border: 3px solid #9a031e;
+    padding: 1 1;
+    transition: 2s;
+    border-radius: 30%;
+}
+
+body {
+    background-image: url("black.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Text {
+    color: #9a031e;
+}
+
+.btn {
+    margin-top: 15%;
+    margin-left: 45%;
+    margin-bottom: 10%;
+    padding: 0 5;
+}
+
+.btn:hover {
+    background: #9a031e;
+    box-shadow: 0 0 5px #9a031e, 0 0 25px #9a031e, 0 0 50px #9a031e, 0 0 200px #9a031e;
+}
